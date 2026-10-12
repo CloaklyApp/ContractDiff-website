@@ -38,3 +38,7 @@ Email: cloaklyapp@gmail.com
 ## License
 
 Copyright © 2026 ContractDiff. All rights reserved.
+
+---
+
+**Website Status**: Live at https://ContractDiff.cloakly.ai
